@@ -4,8 +4,9 @@
 cargo run --bin rhai-01
 ```
 
-To understand RHAI concept better, comment contents of 
-**my_script_01.rhai** with for1_01.rhai and run the Rust crate again.
+To understand RHAI concept better, replace the contents of 
+**my_script_01.rhai** with content from **for1_01.rhai** or **array_01.rhai** 
+and run the Rust crate again.
 
 ```
 cargo run --bin rhai-01
